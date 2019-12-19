@@ -1,0 +1,89 @@
+{
+    "name": "JustGiving Hackers",
+    "description": "Fundraise or donate with JustGiving, the worlds leading online fundraising platform, helping charities to make more with GiftAid",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1625-justgiving-hackers.jpg",
+    "tags": [
+        "api provider",
+        "api united kingdom",
+        "charities",
+        "donation management",
+        "have api",
+        "marketplaces",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/justgiving-hackers\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "JustGiving Hackers",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1625-justgiving-hackers.jpg",
+            "humanURL": "https:\/\/home.justgiving.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/justgiving-hackers-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.justgiving.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds2.feedburner.com\/Justgiving"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/justgiving"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/justgiving"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.justgiving.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@justgiving.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@justgiving.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@justgiving.com"
+        },
+        {
+            "type": "Email",
+            "url": "help@justgiving.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/JustGiving"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/jghackers"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/JustGiving"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/home.justgiving.com\/"
+        }
+    ]
+}
